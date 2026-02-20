@@ -29,6 +29,7 @@ VERSION="$(git ls-remote "$REPO" HEAD | cut -c 1-9 | head -1)"
 git clone "$REPO" ./open-horizon
 echo "$VERSION" > ~/version
 
+mkdir -p ./AppDir/bin
 cd ./open-horizon
 sed -i '21i #include <limits>' renderer/fhm_location.cpp
 mkdir -p build && cd build
