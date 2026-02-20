@@ -1,19 +1,19 @@
 <div align="center">
 
-# open-horizon-AppImage 🐧
+# Open-Horizon-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/open-horizon-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/open-horizon-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/open-horizon-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/open-horizon-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/open-horizon-AppImage)](https://github.com/pkgforge-dev/open-horizon-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Open-Horizon-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Open-Horizon-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Open-Horizon-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Open-Horizon-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Open-Horizon-AppImage)](https://github.com/pkgforge-dev/Open-Horizon-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/Link4Electronics/open-horizon-AppImage/blob/main/AppDir/openhorizon.png" width="128" />
+  <img src="https://github.com/Link4Electronics/Open-Horizon-AppImage/blob/main/AppDir/openhorizon.png" width="128" />
 </p>
 
 
 | Latest Nightly Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/open-horizon-AppImage/releases/latest) | [Click here](https://github.com/undefined-darkness/open-horizon) |
+| [Click here](https://github.com/pkgforge-dev/Open-Horizon-AppImage/releases/latest) | [Click here](https://github.com/undefined-darkness/open-horizon) |
 
 </div>
 
