@@ -37,4 +37,4 @@ sed -i '1i #include <cstdint>' sound/file.h
 mkdir -p build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_POLICY_VERSION_MINIMUM=3.5
 make -j$(nproc)
-mv -v open-horizon ../../AppDir/bin
+mv -v open_horizon ../../AppDir/bin
